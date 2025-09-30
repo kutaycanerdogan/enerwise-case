@@ -1,0 +1,254 @@
+﻿{
+  "kpis": [
+    {
+      "id": "totalConsumption",
+      "title": "Toplam Tüketim",
+      "value": 271474.69,
+      "unit": "kWh",
+      "delta": -1.87
+    },
+    {
+      "id": "totalGasTEP",
+      "title": "Toplam Su Tüketimi",
+      "value": 23.35,
+      "unit": "TEP",
+      "delta": 5.5
+    },
+    {
+      "id": "totalCarbon",
+      "title": "Toplam Karbon Ayak İzi",
+      "value": 119.99,
+      "unit": "tCO₂e",
+      "delta": 2.1
+    },
+    {
+      "id": "totalGasSm3",
+      "title": "Toplam Doğalgaz Tüketimi",
+      "value": 3536.01,
+      "unit": "Sm³",
+      "delta": 4.2
+    },
+    {
+      "id": "totalSteam",
+      "title": "Toplam Buhar Tüketimi",
+      "value": 1536.01,
+      "unit": "kg",
+      "delta": 6.3
+    },
+    {
+      "id": "totalElectricity",
+      "title": "Toplam Elektrik Tüketimi",
+      "value": 456.03,
+      "unit": "kWh",
+      "delta": 3.1
+    },
+    {
+      "id": "totalHotWater",
+      "title": "Toplam Sıcak Su Tüketimi",
+      "value": 3536.01,
+      "unit": "kWh",
+      "delta": 3.2
+    },
+    {
+      "id": "totalWater",
+      "title": "Toplam Su Tüketimi",
+      "value": 356.03,
+      "unit": "kWh",
+      "delta": 2.1
+    },
+    {
+      "id": "totalElectricityProduction",
+      "title": "Toplam Elektrik Üretimi",
+      "value": 3536.01,
+      "unit": "kWh",
+      "delta": 5.5
+    }
+  ],
+  "departments": [
+    {
+      "name": "Kesim",
+      "value": 23723.49
+    },
+    {
+      "name": "Lam Aydınlatma",
+      "value": 3253.19
+    },
+    {
+      "name": "Kesim Mat Aydınlatma",
+      "value": 2306.14
+    },
+    {
+      "name": "Dış Babanoz Aydınlatma",
+      "value": 6215.02
+    },
+    {
+      "name": "Klima",
+      "value": 40482.11
+    }
+  ],
+  "capacitiveLoadPct": 0,
+  "series": [
+    {
+      "name": "Kesim",
+      "points": [
+        [
+          "2025-01-01",
+          120
+        ],
+        [
+          "2025-01-02",
+          118
+        ],
+        [
+          "2025-01-03",
+          130
+        ],
+        [
+          "2025-01-04",
+          160
+        ],
+        [
+          "2025-01-05",
+          150
+        ],
+        [
+          "2025-01-06",
+          170
+        ]
+      ]
+    },
+    {
+      "name": "LAM Aydınlatma",
+      "points": [
+        [
+          "2025-01-01",
+          40
+        ],
+        [
+          "2025-01-02",
+          42
+        ],
+        [
+          "2025-01-03",
+          43
+        ],
+        [
+          "2025-01-04",
+          41
+        ],
+        [
+          "2025-01-05",
+          45
+        ],
+        [
+          "2025-01-06",
+          44
+        ]
+      ]
+    },
+    {
+      "name": "LAM Besleme",
+      "points": [
+        [
+          "2025-01-01",
+          24
+        ],
+        [
+          "2025-01-02",
+          22
+        ],
+        [
+          "2025-01-03",
+          26
+        ],
+        [
+          "2025-01-04",
+          28
+        ],
+        [
+          "2025-01-05",
+          27
+        ],
+        [
+          "2025-01-06",
+          25
+        ]
+      ]
+    },
+    {
+      "name": "Dış Bahçeler",
+      "points": [
+        [
+          "2025-01-01",
+          10
+        ],
+        [
+          "2025-01-02",
+          9
+        ],
+        [
+          "2025-01-03",
+          8
+        ],
+        [
+          "2025-01-04",
+          7
+        ],
+        [
+          "2025-01-05",
+          6
+        ],
+        [
+          "2025-01-06",
+          5
+        ]
+      ]
+    },
+    {
+      "name": "Klima",
+      "points": [
+        [
+          "2025-01-01",
+          60
+        ],
+        [
+          "2025-01-02",
+          58
+        ],
+        [
+          "2025-01-03",
+          65
+        ],
+        [
+          "2025-01-04",
+          70
+        ],
+        [
+          "2025-01-05",
+          68
+        ],
+        [
+          "2025-01-06",
+          72
+        ]
+      ]
+    }
+  ],
+  "timeRanges": [
+    {
+      "id": "7d",
+      "label": "Son 7 gün",
+      "days": 7
+    },
+    {
+      "id": "30d",
+      "label": "Son 30 gün",
+      "days": 30
+    },
+    {
+      "id": "90d",
+      "label": "Son 90 gün",
+      "days": 90
+    }
+  ]
+}
